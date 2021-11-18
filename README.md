@@ -25,7 +25,7 @@ Clique [aqui](https://colab.research.google.com/) para ser redirecionado a pági
 
 ### 3. Acessar documento com as questões:
 
-[Clique](https://github.com/Crystian7/Programa-de-Estagio/blob/4decbb47cd99086fce92aebe42212c9be56e17c2/Aprendendo%20Google%20Sheets%20e%20Pandas%20na%20Ra%C3%A7a.md) aqui para ser redirecionado ao documento contendo as perguntas e algumas dicas importantes.
+[Clique](https://github.com/Crystian7/Programa-de-Estagio/blob/dde188d8228fd79b0f1dc3c4b6f75ead51c9e456/Aprendendo%20Google%20Sheets%20e%20Pandas%20na%20Ra%C3%A7a.md) aqui para ser redirecionado ao documento contendo as perguntas e algumas dicas importantes.
 
 ---
 
