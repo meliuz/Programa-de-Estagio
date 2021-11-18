@@ -1,6 +1,6 @@
 # Instruções para configurar e acessar os dados
 
-Antes de tudo precisamos fazer o download do banco de dados em seu computador, para quem optar em fazer a prova pelo Google Sheets, somente o arquivo CSV é necessário, já para quem optar em fazer pelo Python será necessário fazer o download do notebook contendo a prova e o tutorial, neste caso os passos 2 e 3 é o mais aconselhável, feito isso é só acessar o documento contendo as perguntas e por a mão na massa.
+Antes de tudo precisamos fazer o download do banco de dados em seu computador, para quem optar em fazer a prova pelo Google Sheets, somente o arquivo CSV é necessário, já para quem optar pelo Python será necessário fazer o download do notebook contendo a prova e o tutorial, neste caso os passos 2 ou 3 é necessário, feito isso é só acessar o documento contendo as perguntas e por a mão na massa.
 
 ### Opções de download:
 
