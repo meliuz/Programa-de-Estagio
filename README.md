@@ -14,7 +14,7 @@ Antes de começar a prova escolha em qual formato será entregue, podendo ser fe
 ### 1. Google Sheets:
 
 Clicando [aqui](https://docs.google.com/spreadsheets) você será redirecionado para a página inicial do Google Sheets, do lado da tecla `AZ` clique no desenho de uma pasta, vá na última guia escrito `Upload`, clique nela e escolha o arquivo `Teste Méliuz.csv`, fazendo isso, estará concluida a configuração e poderá realizar a prova.
-### 2. Python - Pandas
+### 2. Python - Pandas:
 
 Para realizar a prova e acompanhar o tutorial será necessário importar os notebooks para o Colab.
 
