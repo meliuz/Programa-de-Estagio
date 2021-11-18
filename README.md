@@ -17,7 +17,7 @@ Clicando [aqui](https://docs.google.com/spreadsheets) você será redirecionado 
 
 ### 2. Python - Pandas
 
-Para realizar a prova e acompanhar o tutorial será necessário importar os notebooks para o Colab, que é o local onde podemos rodar arquivos Python sem precisar configurar na própria máquina, pois utilizaremos as soluções do Google da mesma forma que ela tem as soluções de planilhas eletrônicas.
+Para realizar a prova e acompanhar o tutorial será necessário importar os notebooks para o Colab.
 
 Clique [aqui](https://colab.research.google.com/) para ser redirecionado a página inicial do Colab, vá em `Upload` e escolha o arquivo `Tutorial_pandas.ipynb` e depois repita o procedimento abrindo o arquivo `Prova_Méliuz.ipynb` , onde será feito a prova. 
 
