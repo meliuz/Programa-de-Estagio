@@ -30,7 +30,7 @@ Além das fórmulas descritas na tabela, há duas funções do G.Sheets que são
 # Aprendendo o Pandas na Raça
 
 O [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_spreadsheets.html) é uma biblioteca Python, open-source e de uso gratuito (sob uma licença BSD), que fornece ferramentas para análise e manipulação de dados, onde podemos realizar a maioria das aplicações que o Google Sheets possui e várias outras, sua capacidade de processamento é maior devido a limitação ser somente por hardware, diferente do Google Sheets ou Excel, que tem limitação pelo software. Para usos cotidianos, o G Sheets pode ser bem útil, mas para grandes quantidades de dados ou que requerem muitas operações matemáticas, o Pandas é o mais aconselhável, também podemos integrar com outras aplicações e fazer automatização de forma bem prática, já que é fácil encontrar tutoriais de Python na internet.
-Comece utilizando esse [tutorial]() como referência.
+Comece utilizando o tutorial baixado como referência.
 
 # Hora de praticar! 
 
