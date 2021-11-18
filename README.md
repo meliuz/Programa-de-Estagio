@@ -4,17 +4,16 @@ Antes de tudo precisamos fazer o download do banco de dados em seu computador, q
 
 ### Opções de download:
 
-1. Para fazer o download somente do arquivo contendo os dados é só clicar no nome `Teste Méliuz.csv` e vai aparecer um botão de `Download`, clicando nele, será feito o download na sua máquina;
-2. Podemos baixar a pasta compactada  clicando em `Code` e depois `Download ZIP`, feito isso é só descompactar o arquivo clicando com o botão direito e selecionando `Descompactar aqui`;
-3. E a última forma é fazendo o download dos arquivos via git clone, abra o Terminal ou Prompt de Comando e digite `git clone https://github.com/meliuz/Programa-de-Estagio.git`.
+1. Para fazer o download somente do arquivo contendo os dados clique em `Teste Méliuz.csv` e depois `Download`, ao clicar, será feito o download na sua máquina;
+2. Para baixar pasta, clique em `Code` e depois `Download ZIP`, feito isso, faça a descompactação clicando com o botão direito e selecionando `Descompactar aqui`;
+3. Por fim, faça o download via git clone, abra o Terminal ou Prompt de Comando e digite `git clone https://github.com/meliuz/Programa-de-Estagio.git`.
 ---
 **Depois de ter feito o download do arquivo CSV ou dos notebooks, precisamos importá-los para o Google Sheets ou Colab, dependendendo da forma de resolução.**
 --
 
 ### 1. Google Sheets:
 
-Clicando [aqui](https://docs.google.com/spreadsheets) você será redirecionado para a página inicial do Google Sheets, do lado da tecla `AZ` tem um botão com o desenho de uma pasta, clicando nela serão mostrados opções para abrir arquivos, vá na última guia onde está escrito `Upload`, clique nela e escolha o arquivo `Teste Méliuz.csv`, fazendo isso, estará concluida a configuração e poderá realizar a prova, não se esqueça de nos mandar o link com as permissões de edição para que possamos avaliar corretamente as fórmulas usadas.
-
+Clicando [aqui](https://docs.google.com/spreadsheets) você será redirecionado para a página inicial do Google Sheets, do lado da tecla `AZ` clique no desenho de uma pasta, vá na última guia escrito `Upload`, clique nela e escolha o arquivo `Teste Méliuz.csv`, fazendo isso, estará concluida a configuração e poderá realizar a prova.
 ### 2. Python - Pandas
 
 Para realizar a prova e acompanhar o tutorial será necessário importar os notebooks para o Colab.
@@ -23,7 +22,7 @@ Clique [aqui](https://colab.research.google.com/) para ser redirecionado a pági
 
 ---
 
-### 3. Acessar documento com as questões:
+### 3. Acessar documento com as perguntas:
 
 [Clique](https://github.com/Crystian7/Programa-de-Estagio/blob/dde188d8228fd79b0f1dc3c4b6f75ead51c9e456/Aprendendo%20Google%20Sheets%20e%20Pandas%20na%20Ra%C3%A7a.md) aqui para ser redirecionado ao documento contendo as perguntas e algumas dicas importantes.
 
