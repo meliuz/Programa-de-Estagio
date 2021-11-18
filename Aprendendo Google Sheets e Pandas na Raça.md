@@ -42,9 +42,9 @@ O segredo é sempre fazer com que este tipo de acompanhamento seja de fácil vis
 
 Vamos colocar a mão na massa? 
 Logo abaixo, elaboramos algumas questões para você praticar e se sentir parte do time Méliuz, afinal, a melhor forma de reter conhecimento é através da prática, ainda mais com problemas reais e que ocorrem no nosso dia a dia.
-Você tem alguns dados disponíveis para resolver as questões 1 a 12. Então clique aqui, faça uma cópia da planilha e mãos à obra! Lembre-se de deixar as fórmulas em todas as respostas, responda as questões abaixo da forma que achar mais organizado e de fácil visualização, se preferir pode resolver as questões utilizando o Pandas clicando aqui. No final compartilhe conosco a sua planilha ou o link do seu projeto no Colab.
+Você tem alguns dados disponíveis para resolver as questões 1 a 12, descritos no readme. Responda as questões abaixo da forma que achar mais organizado e de fácil visualização, se preferir pode resolver as questões utilizando o Colab ou Google Sheets. No final compartilhe conosco a sua planilha ou o link do seu projeto no Colab.
 Ah! Use e abuse das fórmulas descritas na primeira página e do tutorial do Pandas, mas não se limite somente a elas, utilize sempre as que melhor se encaixam em cada situação.
-Lembrando que podem ser utilizados tanto o Pandas como o Google Sheets, e não há pontuação maior e nem penalizações ao utilizar uma ou outra ferramenta.
+Lembrando que não há pontuação maior e nem penalizações ao utilizar uma ou outra ferramenta.
 
 ## Responda as questões abaixo: 
 
