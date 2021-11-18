@@ -1,6 +1,6 @@
 # Instruções para configurar e acessar os dados
 
-Antes de começar a prova, escolha em qual formato será entregue, podendo ser feito em Python ou G. Sheets, se decidir pelo Google Sheets somente o passo 1 é necessário, se optar por fazer em Python, o passo 2 ou 3 serão necessários. Feito isso é só acessar o documento contendo as perguntas e por a mão na massa.
+Antes de começar a prova escolha em qual formato será entregue, podendo ser feito em Python ou G. Sheets, se decidir pelo Google Sheets somente o passo 1 é necessário, se optar por fazer em Python, o passo 2 ou 3 serão necessários. Feito isso é só acessar o documento contendo as perguntas e por a mão na massa.
 
 ### Opções de download:
 
