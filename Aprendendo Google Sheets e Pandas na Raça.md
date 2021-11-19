@@ -21,7 +21,7 @@ Para começar a se introduzir na ferramenta do Google, neste [link](https://supp
 | SEERRO      | Retorna o primeiro argumento se não for um valor de erro. Caso contrário, retorna o segundo argumento (se presente) ou um valor vazio se o segundo argumento não existir.                |
 | MAIOR       | Retorna o maior valor numérico da base de dados.                                                                                                                                         |
 | MENOR       | Retorna o menor valor numérico da base de dados.                                                                                                                                         |
-| QUERY       | Filtrar, classificar, adicionar e valores nos seus dados.                                                                                                                                |
+| QUERY       | Filtrar, classificar e adicionar valores nos seus dados.                                                                                                                                |
 
 Além das fórmulas descritas na tabela, há duas funções do G.Sheets que são muito úteis para o usuário, principalmente para uma melhor visualização dos dados. Olha só: 
   1. **Validação de dados:** fica no menu “Dados” da planilha e é usado para criar uma lista suspensa de dados. Muito utilizada para criação de dashboards.
