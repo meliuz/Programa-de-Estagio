@@ -4,7 +4,7 @@ Antes de começar a prova, escolha em qual formato será entregue, podendo ser f
 
 ### Opções de download:
 
-1. Para fazer o download somente do arquivo contendo os dados clique em `Teste Méliuz.csv` e depois `Download`, ao clicar, será baixado em sua máquina;
+1. Para fazer o download somente do arquivo contendo os dados, clique em `Teste Méliuz.csv` e depois `Download`, ao clicar, será baixado em sua máquina;
 2. Para baixar a pasta, clique em `Code` e depois `Download ZIP`, feito isso, faça a descompactação clicando com o botão direito e selecionando `Descompactar aqui`;
 3. Por fim, faça o download via git clone, abra o Terminal ou Prompt de Comando e digite `git clone https://github.com/meliuz/Programa-de-Estagio.git`.
 ---
