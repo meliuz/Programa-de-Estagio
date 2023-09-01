@@ -42,14 +42,14 @@ O segredo é sempre fazer com que este tipo de acompanhamento seja de fácil vis
 
 Vamos colocar a mão na massa? 
 Logo abaixo, elaboramos algumas questões para você praticar e se sentir parte do time Méliuz, afinal, a melhor forma de reter conhecimento é através da prática, ainda mais com problemas reais e que ocorrem no nosso dia a dia.
-Você tem alguns dados disponíveis para resolver as questões 1 a 12, descritos no readme. Responda as questões abaixo da forma que achar mais organizado e de fácil visualização. Responda utilizando de forma que você se sinta confortável, **utilizando o Colab ou Google Sheets**. No final compartilhe conosco a sua planilha ou o link do seu projeto no Colab.
+Você tem alguns dados disponíveis para resolver as questões 1 a 12, descritos no readme. **Responda as questões abaixo** da forma que achar mais organizado e de fácil visualização. Responda utilizando de forma que você se sinta confortável, **utilizando o Colab ou Google Sheets**. No final compartilhe conosco a sua planilha ou o link do seu projeto no Colab.
 Ah! Use e abuse das fórmulas descritas na primeira página e do tutorial do Pandas, mas não se limite somente a elas, utilize sempre as que melhor se encaixam em cada situação.
 Lembrando que não há pontuação maior e nem penalizações ao utilizar uma ou outra ferramenta.
 
 ## Responda as questões abaixo: 
 
 1. Qual é a quantidade total de lojas na base de dados?
-2. Qual foi o total de GMV em cada região do país? Ordene do maior para o menor.
+2. Qual foi o total de GMV em cada região do país?
 3. Qual foi a comissão total de cada loja considerando as taxas de: 
     * 1 a 10 vendas = 5% 
     * 11 a 15 vendas = 10%
@@ -60,7 +60,7 @@ Lembrando que não há pontuação maior e nem penalizações ao utilizar uma ou
 5. Qual foi a comissão total do primeiro trimestre? Considere as taxas de comissão da questão 3.
 6. De todos os estados brasileiros, qual deles merece um acompanhamento melhor? porque ?
 7. Em qual loja você faria uma campanha para o aumento das vendas? Porque?
-8. Quantas lojas tiveram vendas do tipo Promocional? E quantas de Não Promocional e Superpromoção?
+8. Quantas lojas tiveram vendas do tipo Promocional? E quantas de Não Promocional? Quais conclusões podemos tirar dessas vendas promocionais?
 9. Qual foi o GMV total e a comissão total da região nordeste? Considere as taxas de comissão da questão 3.
 10. Qual a média de vendas por loja, por estado, e pelo tipo de vendas.
 11. Qual foi a forma de pagamento mais utilizada? E o GMV total gerado por ela?
