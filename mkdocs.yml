@@ -1,0 +1,6 @@
+---
+site_name: Programa-de-Estagio
+nav:
+  - Home: README.md
+plugins:
+  - techdocs-core
