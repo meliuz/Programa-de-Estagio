@@ -5,10 +5,9 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: meliuz/Programa-de-Estagio
-  description: "# Instru\xE7\xF5es para configurar e acessar os dados\n\nAntes de\
-    \ come\xE7ar a prova, escolha em qual formato ser\xE1 entregue, podendo ser feito\
-    \ em Python ou G. Sh..."
+  description: "# Instruções para configurar e acessar os dados\n\nAntes de começar a prova, escolha em qual formato será entregue, podendo ser feito em Python ou G. Sh..."
   name: Programa-de-Estagio
 spec:
   lifecycle: production
   type: service
+  owner: estrategia-data-analytics
